@@ -7,5 +7,17 @@ This repo is my C++ practice for my 1st semester.
 - If-else
 - Loops
 - Functions
-- Calculator,Grade, Factorial,Table etc.
+- Arrays
+## Program in this repo :
+- Calculator
+- ATM Machine
+- Grade System
+- Factorial
+- Table Generator
+- Palindrome checker
+- Even-Odd Checker
+- Largest Number
+- Swap Numbers
+- Simple Interest
+- Area Calculator 
 I will keep updating this repo as I learn more.
