@@ -1,4 +1,4 @@
-C++-Practice-Programs
+C++-Practice-Program
 Hi, I am Hammad
 BSCS 1st semester at university of Kotli,Azad Kashmir.
 This repo is my C++ practice for my 1st semester.
