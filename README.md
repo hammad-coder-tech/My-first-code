@@ -1,4 +1,4 @@
-# My-first-code
+C++-Practice-Programs
 Hi, I am Hammad
 BSCS 1st semester at university of Kotli,Azad Kashmir.
 This repo is my C++ practice for my 1st semester.
